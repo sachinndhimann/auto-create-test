@@ -1,0 +1,18 @@
+{
+  "Steps": "0",
+  "Enter in TextBox": "inputtext",
+   "Click on Button": "clickElement",
+  "Hover on": "hover",
+  "Wait Till": "wait",
+  "Enter Password": "inputpassword",
+  "Click on Button": "clickButton",
+  "Verify Field as": "verifyText",
+  "Compare Text as": "compareText",
+  "Close Browser": "quit",
+  "Launch in Chrome": "open",
+  "Launch in FireFox": "open",
+  "Select Field as ": "selectfromlist",
+  "Deselect Field as ": "deselectfromlist",
+  "Select Date": "selectdate",
+  "Upload File on": "uploadFile"
+}

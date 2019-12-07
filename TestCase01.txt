@@ -1,0 +1,7 @@
+TC01:Verify Google Home Page
+
+Steps:
+1.Launch Google.com in Google Chrome
+2.Wait Till Page is loaded 
+3.Enter "Testing" in TextBox  ||name=q||
+4.Click on Google Search      ||xpath=(//input[@name="btnK"])[2]||
